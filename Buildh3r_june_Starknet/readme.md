@@ -1,4 +1,3 @@
-contract address on Sepolia: 0x020106a2fb9de3eab0e4fe43f02aa577631d253d9a1a765896b607a580d080cf
+contract address on Sepolia: 0x0340cbb8c08e33a0a30126212b47516934b068dae7de0b70e5bb2efb353479c0
 
-Explorer link: https://sepolia.starkscan.co/contract/0x020106a2fb9de3eab0e4fe43f02aa577631d253d9a1a765896b607a580d080cf#overview
-
+Explorer link: https://sepolia.voyager.online/contract/0x0340cbb8c08e33a0a30126212b47516934b068dae7de0b70e5bb2efb353479c0

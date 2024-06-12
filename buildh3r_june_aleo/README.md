@@ -1,4 +1,4 @@
-# buildh3r_june_aleo.aleo
+# math.aleo
 
-## Deployment details
-program ID: buildh3r_june_aleo.aleo, also see aleo_deploy.png file for screenshot
+Deployment details
+program ID: math.aleo, also see aleo.png file for screenshot

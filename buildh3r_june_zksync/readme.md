@@ -1,19 +1,15 @@
-## Key takeaways
+## Summary of what I learnt
 
-ZKSync is a super fast ZK protocol that is EVM compatible, meaning that smart contracts can be written in Solidity or vyper and then compiled using zksolc compiler which is zkSync's default compiler.
+ZKSync is an ultra-fast ZK protocol that is EVM compatible, allowing smart contracts to be written in Solidity or Vyper and compiled using zksolc, zkSync's default compiler.
 
-In the process I learnt how to set up Solidity project on remix, how to activate plugins on Remix and how to deploy contracts and make calls to them via Remix. 
+Through this process, I gained proficiency in setting up Solidity projects on Remix, activating plugins, deploying contracts, and making calls to them via Remix. My first hands-on experience was with the Zeek Messages contract. This contract features a sendMessage function that accepts and stores messages. Upon deployment, it emits a single event and includes functions to retrieve the last message and the total number of messages.
 
-The first contract I interacted with was the Zeek Messages contract. It has sendmessage function that accepts messages and saves  them to messages in the storage. When the contract is deployed it emits a single event, it has also has functions to get_last_message and also to get total number of messages.
+Next, I delved into the ERC20 token contract, learning how to import and create contracts from OpenZeppelin and the process of token creation. I successfully deployed these contracts and interacted with them directly from Remix, with all transactions verifiable on the explorer.
+
+Additionally, I discovered how to interact with deployed contracts using scripts and blockchain libraries such as Ethers.js, broadening the scope of interaction beyond the Remix environment.
 
 
-The second contract I learnt was erc20 token contract. I learnt how external contracts are imported and created from Openzeppelin, I also learnt how tokens are created.
+message sender deployed at: https://sepolia.explorer.zksync.io/address/0x5a8d317dCdDe2A53E5474f862493c3C6F9C75E40
 
-I deployed the contracts and interacted with them directly from Remix, and the transactions were recorded and can be seen on the explorer.
-
-I also learnt that one can interact with deployed contracts using scripts and blockchain libraries like Ethers.js
-
-message sender deployed at: https://sepolia.explorer.zksync.io/address/0x244Df3892Aeba48E728612f1aEf9b17d6Ee4781E
-
-token contract: https://sepolia.explorer.zksync.io/address/0xfC4C989322428dAc3cA2820f14F3B7523C61331C
+token contract: https://sepolia.explorer.zksync.io/address/0x89eb38cD07093980B5D91837d4790c3d03eE1006
 

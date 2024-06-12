@@ -1,4 +1,4 @@
-program buildh3r_june_aleo.aleo;
+program math.aleo;
 
 
 
